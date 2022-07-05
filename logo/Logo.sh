@@ -36,7 +36,7 @@ echo -e "\e[95m \e[0m\n"
    echo ""
 sleep 1
 echo ""
-echo -e "              \033[1;91m  Author   \033[1;90m:  \033[1;95mDavid Shubitidze \033[1;97m(SUMAN)"
+echo -e "              \033[1;91m  Author   \033[1;90m:  \033[1;95mDavid Shubitidze \033[1;97m(Da2na)"
 echo -e "              \033[1;92m  Website   \033[1;90m: \033[1;94mhttps://github.com/dshubitidze"
 echo ""
 echo -e ""
