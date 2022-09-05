@@ -1,5 +1,5 @@
 #!bin/bash
-#Coded by Suman
+
 clear
 echo -e "\033[1;93m ‎"
 bash logo/Logo.sh
